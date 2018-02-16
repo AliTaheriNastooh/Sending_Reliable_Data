@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="F:/ali/home work/verilog/project/project2/test4_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="test4" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/test4/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/sender/temp1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temp1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">temp1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/sender/out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">out[0:65]</obj_property>
+      <obj_property name="ObjectShortName">out[0:65]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/reciver/data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data[0:65]</obj_property>
+      <obj_property name="ObjectShortName">data[0:65]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/reciver/temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">temp[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/sender/RTS" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RTS</obj_property>
+      <obj_property name="ObjectShortName">RTS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/sender/CTS" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">CTS</obj_property>
+      <obj_property name="ObjectShortName">CTS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/sender/finish1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">finish1</obj_property>
+      <obj_property name="ObjectShortName">finish1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/reciver/checker2/finish" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">finish</obj_property>
+      <obj_property name="ObjectShortName">finish</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test4/uut/reciver/checker2/temp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">temp[16:0]</obj_property>
+      <obj_property name="ObjectShortName">temp[16:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj project2 -o "F:/ali/home work/verilog/project/project2/noise.tfi" -lib work "F:/ali/home work/verilog/project/project2//noise.v" -module noise -template E:/xilinx/setup/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

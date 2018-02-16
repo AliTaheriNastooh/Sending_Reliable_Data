@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj project2 -o "F:/ali/home work/verilog/project/project2/receiver1.tfi" -lib work "F:/ali/home work/verilog/project/project2//receiver1.v" -module receiver1 -template E:/xilinx/setup/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

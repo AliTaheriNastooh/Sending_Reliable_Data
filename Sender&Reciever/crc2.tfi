@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+crc2 instance_name (
+    .data(data), 
+    .out(out), 
+    .finish(finish), 
+    .clk(clk), 
+    .en(en)
+    );
+
+

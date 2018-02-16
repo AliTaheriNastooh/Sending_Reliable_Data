@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+sender1 instance_name (
+    .RTS(RTS), 
+    .CTS(CTS), 
+    .clk(clk), 
+    .out(out)
+    );
+
+

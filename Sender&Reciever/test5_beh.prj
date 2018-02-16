@@ -1,0 +1,8 @@
+verilog work "crc2.v"
+verilog work "crc.v"
+verilog work "sender1.v"
+verilog work "receiver1.v"
+verilog work "noise.v"
+verilog work "main.v"
+verilog work "test5.v"
+verilog work "E:/xilinx/setup/14.7/ISE_DS/ISE//verilog/src/glbl.v"

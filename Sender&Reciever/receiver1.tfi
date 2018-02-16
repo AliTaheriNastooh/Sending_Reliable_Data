@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+receiver1 instance_name (
+    .clk(clk), 
+    .RTS(RTS), 
+    .CTS(CTS), 
+    .data(data)
+    );
+
+
